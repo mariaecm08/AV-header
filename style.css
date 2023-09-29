@@ -1,0 +1,41 @@
+body{
+    background-color:brown;
+}
+h1{
+    font-size: 60px;
+    color: rgb(26, 3, 3);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: rgb(28, 10, 110);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 60px;
+    margin-left: 190px;
+}
+.cabecalho{
+    background-color: rgb(139, 135, 126);
+    display: flex;
+}
+.logoimg{
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+    margin-left: 0px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 450px;
+}
+.item_lista_cabecalho{
+    color: #470707;
+    list-style: none;
+    text-transform:uppercase;
+    font-size: 20px;
+    padding: 15px;
+}
